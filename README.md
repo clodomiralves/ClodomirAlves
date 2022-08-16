@@ -16,6 +16,10 @@
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/111306913/184982978-7d3491d2-5b0c-4a92-8d02-56210b78f3fd.jpeg?width=676&height=676">
  
  ![Snake animation](https://github.com/ClodomirAlves/ClodomirAlves/blob/output/github-contribution-grid-snake.svg)
+
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/111306913/185000538-6cc62b0d-8249-48d1-9864-3caaca4d52e8.gif)
+
+
  
  
 
