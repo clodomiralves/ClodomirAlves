@@ -15,6 +15,8 @@
  <a href="https://discord.gg/9CQt5pr47p" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/111306913/184982978-7d3491d2-5b0c-4a92-8d02-56210b78f3fd.jpeg?width=676&height=676">
  
+ ![Snake animation](https://github.com/ClodomirAlves/ClodomirAlves/blob/output/github-contribution-grid-snake.svg)
+ 
  
 
 
