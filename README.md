@@ -48,7 +48,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clodomiralves&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <div style="display: flex; justify-content: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=clodomiralves&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clodomiralves&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="200"/>
+  </div>
 </div>
 
 ###
